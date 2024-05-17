@@ -1,7 +1,30 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=header"/>
+# Hello world 🌍 to Maely's World🐞
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+Me+Chamo+Maely;E+Estou+cursando+Engenharia+de+Software;Be+Welcome!+:%29)](https://git.io/typing-svg)
+![Banner](https://github.com/MaelyAraujo/MaelyAraujo/blob/main/BannerOFMa.png?raw=true)
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
 
-<img align="right" alt="MaelyA" src="https://cdn.discordapp.com/attachments/869306227522416731/1079928395456069692/picasion.com_3d2e9897dea64b3db7e6e903ad880a28.gif">  </div>
+## Sobre Mim
+
+- 🌱 **Atualmente Estudando:** Engenharia de Software
+- 📚 **Cursos Concluídos:**
+  - Introdução a Testes e QA
+  - Introdução a Testes Automatizados
+
+
+## 🔧 Tecnologias e Ferramentas
+
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MaelyAraujo&show_icons=true&theme=radical)
+
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/maely-ara%C3%BAjo-9a85201b0/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- [E-mail](maelyaraujo137@gmail.com)
+
+
