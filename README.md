@@ -1,6 +1,6 @@
 # Hello world 🌍 to Maely's World🐞
 
-![Banner](https://github.com/MaelyAraujo/MaelyAraujo/blob/main/Design%20sem%20nome.png?raw=true)
+![Banner](https://github.com/MaelyAraujo/MaelyAraujo/blob/main/OFBannerQA.png?raw=true)
 
 
 ## Sobre Mim
