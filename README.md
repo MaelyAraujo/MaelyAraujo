@@ -25,6 +25,4 @@
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/maely-ara%C3%BAjo-9a85201b0/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- [E-mail](maelyaraujo137@gmail.com)
-
-
+- [E-mail](mailto:maelyaraujo137@gmail.com)
