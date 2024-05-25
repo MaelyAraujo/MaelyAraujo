@@ -15,6 +15,7 @@
 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-0076C6?style=flat-square&logo=Playwright&logoColor=white)
 
 
 ## 📈 Estatísticas do GitHub
